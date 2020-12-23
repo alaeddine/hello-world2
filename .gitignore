@@ -1,0 +1,20 @@
+﻿# Intellij
+.idea/
+target/
+.settings/
+.classpath
+.springBeans
+.project
+*.iml
+dfceJobHome
+var
+/test
+tmp/
+dfce-transactional-context/.gitignore
+dfce-webapp/META-INF/
+out/
+dfce-jobs-it-test/test/dfce-job/home/
+bin/
+**/docker_volumes/
+*.surefire-*
+dfce.log
